@@ -1,4 +1,4 @@
-# SANDY GPT
+# SAN_Vortex_AI GPT
 
 A modern ChatGPT clone built with React, TypeScript, and Supabase.
 
