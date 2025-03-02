@@ -1,4 +1,4 @@
-# SAN_Vortex_AI GPT
+# SAN_Vortex_AI -  LIVE LINK :  https://san-vortex-ai.netlify.app/
 
 A modern ChatGPT clone built with React, TypeScript, and Supabase.
 
